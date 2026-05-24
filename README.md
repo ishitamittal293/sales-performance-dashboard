@@ -16,6 +16,11 @@ customer insights.
 - Technology is the highest revenue-generating category
 - Central region shows lower profitability — identified as 
   an improvement opportunity
+  
+## Analytical Approach
+Filtered and aggregated sales data across dimensions including 
+Region, Category, and Month to surface profitability patterns 
+and identify underperforming segments for business recommendations.
 
 ## Tools Used
 - Power BI Desktop
